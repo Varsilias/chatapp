@@ -5,7 +5,7 @@ ChatApp is a Laravel Based realtime messaging platform built using pusher, pushe
 
 
 ## Usage
-#### If you find this repo useful, here are few things you need to do
+###S If you find this repo useful, here are few things you need to do
 
 1. Clone this repository
 2. `composer install`
